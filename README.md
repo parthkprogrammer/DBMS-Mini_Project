@@ -76,3 +76,17 @@ To compile and launch the application, open your terminal in the root directory 
 ```
 
 *(Note: Ensure your MySQL database is running and the credentials in your `DBConnection` utility are correct before launching).*
+
+---
+
+## 🔑 Default Credentials
+
+After setting up the database (or running the `DatabaseSeeder`), you can log in with the following test accounts:
+
+**Admin Access:**
+*   **Username:** `admin`
+*   **Password:** `admin123`
+
+**Student Access:**
+*   **Username:** `std1` (or `std2`, `std3`)
+*   **Password:** `123456`
